@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson6\point\bin\Debug\net6.0\point.exe
+G:\GB\Seminar\Homework\lesson6\point\bin\Debug\net6.0\point.deps.json
+G:\GB\Seminar\Homework\lesson6\point\bin\Debug\net6.0\point.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson6\point\bin\Debug\net6.0\point.dll
+G:\GB\Seminar\Homework\lesson6\point\bin\Debug\net6.0\point.pdb
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.dll
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\refint\point.dll
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.pdb
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\point.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson6\point\obj\Debug\net6.0\ref\point.dll

@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson6\sumnumbers\bin\Debug\net6.0\sumnumbers.exe
+G:\GB\Seminar\Homework\lesson6\sumnumbers\bin\Debug\net6.0\sumnumbers.deps.json
+G:\GB\Seminar\Homework\lesson6\sumnumbers\bin\Debug\net6.0\sumnumbers.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson6\sumnumbers\bin\Debug\net6.0\sumnumbers.dll
+G:\GB\Seminar\Homework\lesson6\sumnumbers\bin\Debug\net6.0\sumnumbers.pdb
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.dll
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\refint\sumnumbers.dll
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.pdb
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\sumnumbers.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson6\sumnumbers\obj\Debug\net6.0\ref\sumnumbers.dll
